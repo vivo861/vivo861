@@ -7,4 +7,4 @@
 <!---
 vivo861/vivo861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.18.94:443/?path=%2Ffastssh/vivopssh/61b237aea642a/&security=tls&encryption=none&host=id1.vless.co&type=ws&sni=id1.vless.co#id1.vless.co
